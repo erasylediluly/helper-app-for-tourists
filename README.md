@@ -4,3 +4,5 @@ Pandemic travel is an application for those traveling to tourist places of Kazak
 ***
 To calculate the travel route, I solved a problem related to graphs (Traveling salesman problems). The task is to go around all the vertices of the graph having passed the minimum distance. The distances between the points were taken with the help of the Bing Map API.
 ***
+<img src="Demo1.gif" width="400" height="300" />
+<img src="Demo2.gif" width="400" height="300" />
